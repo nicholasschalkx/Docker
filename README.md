@@ -1,6 +1,6 @@
 # Simple nginx server with docker
 
-Use docker build . -t <tag> to build.
+Use docker build . -t {your tag} to build.
 
-Use docker run -p <preferred port>:80 <tag> to run.
+Use docker run -p {your port}:80 {your tag} to run.
 
